@@ -1,6 +1,6 @@
 # Bug Report 3: "Forgot Password" Link Redirects to 404
 
-**Reported by:** Timothy Richards  
+**Reported by:** Timothy Richards
 **Date:** July 21, 2025  
 **Environment:**  
 - Platform: Web Application  
